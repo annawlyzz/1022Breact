@@ -4,3 +4,9 @@
                 descricao="Professor do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
                 githubLink='https://github.com/guilhermeterenciani'
             />
+<Estudante 
+            nome="Ana Clara Eleutério"
+            imagem= "https://github.com/annawlyzz.png"
+            descricao= "Aluna do IFMS, no 5° semestre do Curso Técnico de Informática para Internet"
+            githubLink= "https://github.com/annawlyzz"
+            />
